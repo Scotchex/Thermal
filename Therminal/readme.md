@@ -5,6 +5,6 @@ I find that too time consuming.
 
 Feel free to use this terminal ; but don't forget to give some credit
 If you do anything illegal with it I am not responsible and kinda not care.
-Have fun..
+Have fun.
 
 -2b2b2b
