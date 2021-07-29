@@ -1,5 +1,4 @@
-Welcome to this terminal.
-This terminal will be used for many of the stuff I will be creating.
+This terminal will be used for many of the stuff I will be making in the future.
 Which means I'll be updating this as the number of my projects increase.
 I am creating this terminal so that I don't have to create a new CLI everytime I start something new.
 I find that too time consuming.
