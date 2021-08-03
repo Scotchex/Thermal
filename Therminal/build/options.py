@@ -18,6 +18,8 @@ def showOptions():
 0. Clean the terminal
 1. Learn your IP adress    
 2. Print 'I love cats'    
+3. Start a COM connection
+4. To launch the Therminal Python CLI
 
 """
 , 'yellow'))
